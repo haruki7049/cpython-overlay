@@ -1,2 +1,2 @@
-# python-overlay
-A Python overlay for Nix package manager.
+# cpython-overlay
+A cpython overlay for Nix package manager.
