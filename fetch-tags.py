@@ -4,6 +4,7 @@
 import requests
 import json
 
+
 def get_all_tags(owner, repo):
     url = f"https://api.github.com/repos/{owner}/{repo}/tags"
     tags = []
@@ -22,6 +23,7 @@ def get_all_tags(owner, repo):
             break
 
     return tags
+
 
 if __name__ == "__main__":
     owner = "python"  # リポジトリの所有者のユーザー名または組織名
