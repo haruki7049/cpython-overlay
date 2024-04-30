@@ -24,9 +24,11 @@ def get_all_tags(owner, repo):
 
     return tags
 
+
 def save_to_json(tags, filename):
     with open(filename, "w") as file:
         json.dump(tags, file, indent=2)
+
 
 if __name__ == "__main__":
     owner = "python"  # リポジトリの所有者のユーザー名または組織名
