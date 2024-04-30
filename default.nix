@@ -8,7 +8,7 @@ self: super: {
         owner = "python";
         repo = pname;
         rev = "v${version}";
-        hash = "";
+        hash = "sha256-DMz2VdmnNEQIO4ALBP+KBccP3DxI/z+mKQMaReRg070=";
       };
     };
   };
