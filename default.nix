@@ -7,7 +7,7 @@ self: super: {
       src = super.fetchFromGitHub {
         owner = "python";
         repo = pname;
-        rev = "v${version}"
+        rev = "v${version}";
         hash = "";
       };
     };
