@@ -11,7 +11,7 @@ jobs:
       - uses: cachix/install-nix-action@v26
         with:
           nix_path: nixpkgs=channel:nixos-unstable
-      - run: ./update
+      - run: ./fetch-tags.py
       - run: "git config user.email haruki7049@users.noreply.github.com"
       - run: "git config user.name cpython-overlay"
       - run: "git add -A"
