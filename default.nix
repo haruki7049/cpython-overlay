@@ -1,31 +1,30 @@
 self: super: {
   cpython = let
-    pkgs = super.pkgs;
     lib = super.lib;
     fetchFromGitHub = super.fetchFromGitHub;
-    stdenv = pkgs.stdenv;
+    stdenv = super.stdenv;
     optionals = lib.optionals;
-    pkg-config = pkgs.pkg-config;
-    autoreconfHook = pkgs.autoreconfHook;
-    autoconf-archive = pkgs.autoconf-archive;
-    nukeReferences = pkgs.nukeReferences;
-    zlib = pkgs.zlib;
-    glibc = pkgs.glibc;
-    gdbm = pkgs.gdbm;
-    sqlite = pkgs.sqlite;
-    bzip2 = pkgs.bzip2;
-    expat = pkgs.expat;
-    ncurses = pkgs.ncurses;
-    readline = pkgs.readline;
-    xz = pkgs.xz;
-    libffi = pkgs.libffi;
-    libxcrypt = pkgs.libxcrypt;
-    tcl = pkgs.tcl;
-    tk = pkgs.tk;
-    libX11 = pkgs.xorg.libX11;
-    xorgproto = pkgs.xorg.xorgproto;
-    bluez = pkgs.bluez;
-    tzdata = pkgs.tzdata;
+    pkg-config = super.pkg-config;
+    autoreconfHook = super.autoreconfHook;
+    autoconf-archive = super.autoconf-archive;
+    nukeReferences = super.nukeReferences;
+    zlib = super.zlib;
+    glibc = super.glibc;
+    gdbm = super.gdbm;
+    sqlite = super.sqlite;
+    bzip2 = super.bzip2;
+    expat = super.expat;
+    ncurses = super.ncurses;
+    readline = super.readline;
+    xz = super.xz;
+    libffi = super.libffi;
+    libxcrypt = super.libxcrypt;
+    tcl = super.tcl;
+    tk = super.tk;
+    libX11 = super.xorg.libX11;
+    xorgproto = super.xorg.xorgproto;
+    bluez = super.bluez;
+    tzdata = super.tzdata;
     openssl-1-0-2 = stdenv.mkDerivation {
       pname = "openssl";
       version = "1.0.2";
@@ -37,7 +36,7 @@ self: super: {
         sha256 = "sha256-so3qv87ph1mA3LMi4zOQ2hOlo9DApbuQc33GSWnBl/E=";
       };
 
-      buildInputs = with pkgs; [ perl ];
+      buildInputs = with super; [ perl ];
 
       buildPhase = ''
         ./config --prefix=$out
