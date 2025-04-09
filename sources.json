@@ -1,5 +1,15 @@
 [
   {
+    "name": "v3.14.0a7",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.14.0a7",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.14.0a7",
+    "commit": {
+      "sha": "29af6cee02fbe74d59c6d725a506fe60c77d37d6",
+      "url": "https://api.github.com/repos/python/cpython/commits/29af6cee02fbe74d59c6d725a506fe60c77d37d6"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE0LjBhNw=="
+  },
+  {
     "name": "v3.14.0a6",
     "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.14.0a6",
     "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.14.0a6",
@@ -58,6 +68,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/8cdaca8b25e3354530d66cbccc622e0e914e8e8a"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE0LjBhMQ=="
+  },
+  {
+    "name": "v3.13.3",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.13.3",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.13.3",
+    "commit": {
+      "sha": "6280bb547840b609feedb78887c6491af75548e8",
+      "url": "https://api.github.com/repos/python/cpython/commits/6280bb547840b609feedb78887c6491af75548e8"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEzLjM="
   },
   {
     "name": "v3.13.2",
@@ -218,6 +238,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/ad056f03aee8000a1564a1d17f655f8713c48e48"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEzLjBhMQ=="
+  },
+  {
+    "name": "v3.12.10",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.12.10",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.12.10",
+    "commit": {
+      "sha": "0cc81280367df838c4b199f8f0378837165071c2",
+      "url": "https://api.github.com/repos/python/cpython/commits/0cc81280367df838c4b199f8f0378837165071c2"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEyLjEw"
   },
   {
     "name": "v3.12.9",
@@ -458,6 +488,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/4ae1a0ecaffe4320fe9774fad1f395f732c17959"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEyLjBhMQ=="
+  },
+  {
+    "name": "v3.11.12",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.11.12",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.11.12",
+    "commit": {
+      "sha": "da1f6c61ddfec776a4a2baff75eefad99ee5d84b",
+      "url": "https://api.github.com/repos/python/cpython/commits/da1f6c61ddfec776a4a2baff75eefad99ee5d84b"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjExLjEy"
   },
   {
     "name": "v3.11.11",
@@ -718,6 +758,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/7c12e4835ebe52287acd200a2e76b533413b15d0"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjExLjBhMQ=="
+  },
+  {
+    "name": "v3.10.17",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.10.17",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.10.17",
+    "commit": {
+      "sha": "26ee8cad13e97c7e33b41f20216df30539f49e0b",
+      "url": "https://api.github.com/repos/python/cpython/commits/26ee8cad13e97c7e33b41f20216df30539f49e0b"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEwLjE3"
   },
   {
     "name": "v3.10.16",
@@ -1018,6 +1068,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/8e9afaf8226b62a18080d69533a41159c70193cb"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEwLjBhMQ=="
+  },
+  {
+    "name": "v3.9.22",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.9.22",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.9.22",
+    "commit": {
+      "sha": "05c5549224fba2906c5e33e2aee5dec6bb0b825b",
+      "url": "https://api.github.com/repos/python/cpython/commits/05c5549224fba2906c5e33e2aee5dec6bb0b825b"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjkuMjI="
   },
   {
     "name": "v3.9.21",
