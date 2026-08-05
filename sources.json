@@ -130,6 +130,16 @@
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE1LjBhMQ=="
   },
   {
+    "name": "v3.14.7",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.14.7",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.14.7",
+    "commit": {
+      "sha": "823f0323ee6ec1402088b73bce1a38473cac36dc",
+      "url": "https://api.github.com/repos/python/cpython/commits/823f0323ee6ec1402088b73bce1a38473cac36dc"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE0Ljc="
+  },
+  {
     "name": "v3.14.6",
     "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.14.6",
     "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.14.6",
