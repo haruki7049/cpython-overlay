@@ -650,6 +650,16 @@
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEzLjBhMQ=="
   },
   {
+    "name": "v3.12.14",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.12.14",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.12.14",
+    "commit": {
+      "sha": "2abcf904b8dac8c999d2b3aac76681abb333798a",
+      "url": "https://api.github.com/repos/python/cpython/commits/2abcf904b8dac8c999d2b3aac76681abb333798a"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEyLjE0"
+  },
+  {
     "name": "v3.12.13",
     "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.12.13",
     "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.12.13",
@@ -928,6 +938,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/4ae1a0ecaffe4320fe9774fad1f395f732c17959"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEyLjBhMQ=="
+  },
+  {
+    "name": "v3.11.16",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.11.16",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.11.16",
+    "commit": {
+      "sha": "41388c9cb160d0886d5ca00d2e6c8782608a4549",
+      "url": "https://api.github.com/repos/python/cpython/commits/41388c9cb160d0886d5ca00d2e6c8782608a4549"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjExLjE2"
   },
   {
     "name": "v3.11.15",
@@ -1228,6 +1248,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/7c12e4835ebe52287acd200a2e76b533413b15d0"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjExLjBhMQ=="
+  },
+  {
+    "name": "v3.10.21",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.10.21",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.10.21",
+    "commit": {
+      "sha": "3a19c2f0b3e91ce8f23d0cc64d4c9ee557823f24",
+      "url": "https://api.github.com/repos/python/cpython/commits/3a19c2f0b3e91ce8f23d0cc64d4c9ee557823f24"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEwLjIx"
   },
   {
     "name": "v3.10.20",
