@@ -1,5 +1,15 @@
 [
   {
+    "name": "v3.16.0a1",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.16.0a1",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.16.0a1",
+    "commit": {
+      "sha": "22d79d9840a275ed6ed36cd590dc74edc61765fb",
+      "url": "https://api.github.com/repos/python/cpython/commits/22d79d9840a275ed6ed36cd590dc74edc61765fb"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE2LjBhMQ=="
+  },
+  {
     "name": "v3.15.0",
     "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.15.0",
     "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.15.0",
