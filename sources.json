@@ -10,6 +10,16 @@
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE2LjBhMQ=="
   },
   {
+    "name": "v3.15.1",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.15.1",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.15.1",
+    "commit": {
+      "sha": "c37e74cb6bcdadcd5f46f289498f6b3298ddee61",
+      "url": "https://api.github.com/repos/python/cpython/commits/c37e74cb6bcdadcd5f46f289498f6b3298ddee61"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE1LjE="
+  },
+  {
     "name": "v3.15.0",
     "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.15.0",
     "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.15.0",
@@ -168,6 +178,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/aeff92d86a3f3bd2d3a32b36ba75f84ff2c279d8"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE1LjBhMQ=="
+  },
+  {
+    "name": "v3.14.9",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.14.9",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.14.9",
+    "commit": {
+      "sha": "ead82c07db1f111d613926ed1b6667411d768125",
+      "url": "https://api.github.com/repos/python/cpython/commits/ead82c07db1f111d613926ed1b6667411d768125"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE0Ljk="
   },
   {
     "name": "v3.14.8",
@@ -408,6 +428,16 @@
       "url": "https://api.github.com/repos/python/cpython/commits/8cdaca8b25e3354530d66cbccc622e0e914e8e8a"
     },
     "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjE0LjBhMQ=="
+  },
+  {
+    "name": "v3.13.17",
+    "zipball_url": "https://api.github.com/repos/python/cpython/zipball/refs/tags/v3.13.17",
+    "tarball_url": "https://api.github.com/repos/python/cpython/tarball/refs/tags/v3.13.17",
+    "commit": {
+      "sha": "64e080d38154391ff2d2caa1161c298bb7cd8f30",
+      "url": "https://api.github.com/repos/python/cpython/commits/64e080d38154391ff2d2caa1161c298bb7cd8f30"
+    },
+    "node_id": "MDM6UmVmODE1OTg5NjE6cmVmcy90YWdzL3YzLjEzLjE3"
   },
   {
     "name": "v3.13.16",
